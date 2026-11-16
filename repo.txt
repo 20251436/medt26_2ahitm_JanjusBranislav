@@ -1,0 +1,10 @@
+Auflistung der Ordnerpfade für Volume Acer
+Volumeseriennummer : 3057-77EF
+C:.
+¦   README.md
+¦   repo.txt
+¦   traffic.png
+¦   
++---Profilbild
+        WIN_20251111_16_46_25_Pro.jpg
+        

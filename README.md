@@ -10,9 +10,6 @@
 ![Profilbild](Profilbild/WIN_20251111_16_46_25_Pro.jpg)
 
 
-1. VCS
-1. 1.Git
-1. Git hub
-
-## Javascript
+## Verkehrszeichen 
+![Verkehrszeichen](/traffic.png)
 
